@@ -7,9 +7,9 @@ import plotly.express as px
 
 st.title('Proyek Analisis Data: Bike sharing')
 st.markdown("""
-- **Nama:** Chelsa Rachel Wibowo
-- **Email:** chelsarachelwibowo@gmail.com
-- **ID Dicoding:** chelsarachel
+- **Nama:** Riska Destiana
+- **Email:** riskadesti123@gmail.com
+- **ID Dicoding:** riskadeana
 """)
 
 url = 'https://drive.google.com/uc?id=14vZd0xgkZgxEVqgLlQYWxhAxO9f3_ob3'
